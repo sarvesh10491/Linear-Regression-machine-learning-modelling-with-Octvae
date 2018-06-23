@@ -1,4 +1,4 @@
-# Linear-Regression-machine-learning-modelling-with-Octave
+# Machine-Learning-Modelling-Linear-Regression-with-Octave
 
 Exercise case from Stanford machine learning course dataset
 
@@ -15,7 +15,7 @@ A negative value for profit indicates a loss.
 
 Execute main.m to get the model & prediction results. Make changes in main.m for different predictions on your data.
 
-=========================================================================================================================
+=============================================================================
 
 Linear regression with one variable
 ------------------------------------
